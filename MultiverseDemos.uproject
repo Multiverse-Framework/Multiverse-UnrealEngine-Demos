@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7B6BD9A8-5A90-41F0-BAB0-18C33B736AC4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MultiverseDemos",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
