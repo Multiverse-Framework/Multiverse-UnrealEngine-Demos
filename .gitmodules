@@ -1,0 +1,3 @@
+[submodule "Plugins/MultiverseConnector"]
+	path = Plugins/MultiverseConnector
+	url = git@github.com:Multiverse-Framework/Multiverse-UnrealEngine-Connector.git
