@@ -3,4 +3,4 @@
 #include "MultiverseDemos.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, MultiverseDemos, "MultiverseDemos" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, MultiverseDemos, "MultiverseDemos");
